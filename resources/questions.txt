@@ -1,0 +1,46 @@
+Q: What is not a super global variable of the following : 
+A) $_SERVER
+B) $_GET
+C) $_POST
+D) $_PUT
+*Q: Getting a user IP address can be done by $_SERVER array.
+Q: A function to check the existance of a variable : 
+A) empty
+B) isset
+C) is_set
+D) is_empty
+Q: A function to search an array : 
+A) array_merge
+B) in_array
+C) map_array
+D) is_array
+Q: A function to iterate an array applying a method to all its members : 
+A) array_merge
+B) in_array
+C) map_array
+D) is_array
+Q: PHP Stands for :
+A) PHP Hypertex Processor
+B) PHP Hyper Markup Processor
+C) PHP Hyper Markup Preprocessor
+D) PHP Hypertext Preprocessor
+Q: PHP is an example of _____ scripting language :
+A) Server-side
+B) Client-side
+C) Browser-side
+D) In-side
+Q: Who is known as the father of PHP :
+A) Rasmus Lerdorf
+B) Willam Makepiece
+C) Drek Kolkevi
+D) List Barely
+Q: Which of the following method sends input to a script via a URL :
+A) Get
+B) Post
+C) Both
+D) None
+Q: Which of the following variables is not a predefined variable :
+A) $get
+B) $ask
+C) $request
+D) $post

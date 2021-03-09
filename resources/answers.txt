@@ -1,0 +1,10 @@
+D) $_PUT
+True
+B) isset
+B) in_array
+C) map_array
+D) PHP Hypertext Preprocessor
+A) Server-side
+A) Rasmus Lerdorf
+A) Get
+B) $ask
